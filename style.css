@@ -598,6 +598,16 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: 0px;
 }
 
+.bck-title-1:hover {
+    background-size: contain;
+    content: " ";
+    padding: 40px 434px;
+    left: 63px;
+    margin-top: -30px;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-image: url(images/titulo1.png);
+}
 
 /*TÃ­tulo 1-Izquierda*/
 .bck-title-9 {
