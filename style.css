@@ -2419,9 +2419,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 
 
-/*icono Musica*/
-.icon-musica:before {
-  background-image: url(images/rich_english_U7_pg64_img_0004.png);
+/*icono audio*/
+.icon-audio:before {
+  background-image: url(images/icono_audio.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
