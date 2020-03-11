@@ -1194,12 +1194,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: absolute;
     font-size: 2.2rem;
     font-weight: 600;
-    color: #009FA5;
+    color: #EF2C3E;
     background: none;
     margin-left: -35px;
     margin-right: 0px;
     text-align: right;
-    font-family: 'Conv_FuturaStd-Bold'; 	
+    /*font-family: 'Conv_FuturaStd-Bold';*/	
 }
 
 /*LISTA 3*/
