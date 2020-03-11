@@ -2799,6 +2799,11 @@ border-color: #009FA5;
 }
 /**/
 
+/*actividad relacionar*/
+#actividad .box{
+  text-align: start;
+}
+
 /**TABS**/
 
 .activities-dropdown .nav-tabs {
