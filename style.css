@@ -767,13 +767,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   color: inherit;
 }
 
-/*Enfasis NumeroIntro*/
+/*Tipo Billy*/
 .bck-enfasis-1 {
-    color: #00ACB3;
-    font-size: 8rem;
-    position: relative;
-    top: 15px;
-    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    font-family: 'Conv_billy-bold';
 }
 
 /*énfasis naranja*/
