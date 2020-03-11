@@ -101,6 +101,7 @@
 				{ name: 'Icono Nivel 6', element: 'span', attributes: { 'class': 'icon icon-nivel6' } },
 				{ name: 'Icono Focus', element: 'span', attributes: { 'class': 'icon icon-focus' } },
 				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
+				{ name: 'Icono Libro', element: 'span', attributes: { 'class': 'icon icon-libro' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
 				{ name: 'Icono Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
 				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-play' } },
