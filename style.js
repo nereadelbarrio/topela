@@ -28,7 +28,7 @@
 				{ name: 'Título 11', element: 'h2', attributes: { 'class': 'bck-title-11'} },
 				{ name: 'Título azul', element: 'h2', attributes: { 'class': 'bck-title-12'} },
 				
-				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'Billy', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis negro', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
