@@ -1532,23 +1532,29 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   padding: 0px;
 }
 
-/*CAJA6- CajaWordPool */
-
+/*CAJA6- CajaVerde */
 .bck-box.bck-box-6 {
-  margin-top: 15px;
-  border: none;
-  background: transparent;
+    background: #D4E05A;
+    margin-top: 20px;
+    padding: 10px 10px 2px;
+    border-radius: 0px 30px 30px 30px;
+}
+
+.bck-box.bck-box-6 .bck-content {
+    border: 0;
+    padding: 5px;
 }
 
 .bck-box.bck-box-6 .bck-title {
-  color: inherit;
-}
-
-
-.bck-box.bck-box-6 .bck-content {
-    padding-left: 30px;
-    background-color: #DBECF1;
-    padding: 8px 8px 8px 19px;
+    font-family: GrilledCheeseBTN;
+    padding: 5px 10px;
+    text-align: center;
+    border: 0;
+    color: #FFF;
+    font-size: 2.8rem;
+    font-weight: 600;
+    margin-top: -30px;
+    -webkit-text-stroke: 0.2px #7d9761;
 }
 
 /*CAJA7- CajaPunteada = caja 2 verde */
