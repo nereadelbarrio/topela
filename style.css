@@ -2436,6 +2436,25 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     top: -5px;
 }
 
+/*icono libro*/
+.icon-libro:before {
+  background-image: url(images/icono_libro.png);
+  content: "";
+  background-repeat: no-repeat;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  background-position: center center;
+  display: inline-block;
+  vertical-align: middle;
+  height: 20px;
+    width: 31px;
+    margin-right: 5px;
+    position: relative;
+    top: -5px;
+}
+
 /*icono Lupa*/
 .icon-lupa:before {
   background-image: url(images/icono_lupa.png);
