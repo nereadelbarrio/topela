@@ -2448,11 +2448,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   background-position: center center;
   display: inline-block;
   vertical-align: middle;
-  height: 20px;
-    width: 31px;
-    margin-right: 5px;
-    position: relative;
-    top: -5px;
+  height: 19px;
+  width: 17px;
+  margin-right: 9px;
+  position: relative;
+  top: -5px;
 }
 
 /*icono Lupa*/
