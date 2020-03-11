@@ -2417,8 +2417,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 0px;
 }
 
-
-
 /*icono audio*/
 .icon-audio:before {
   background-image: url(images/icono_audio.png);
@@ -2431,9 +2429,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   background-position: center center;
   display: inline-block;
   vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 10px;
+  height: 20px;
+    width: 31px;
+    margin-right: 5px;
+    position: relative;
+    top: -5px;
 }
 
 /*icono Lupa*/
