@@ -100,7 +100,7 @@
 				{ name: 'Icono Nivel 5', element: 'span', attributes: { 'class': 'icon icon-nivel5' } },
 				{ name: 'Icono Nivel 6', element: 'span', attributes: { 'class': 'icon icon-nivel6' } },
 				{ name: 'Icono Focus', element: 'span', attributes: { 'class': 'icon icon-focus' } },
-				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
+				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
 				{ name: 'Icono Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
 				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-play' } },
