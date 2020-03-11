@@ -480,6 +480,7 @@ body.is_app .topela-navbar.ocultar {
   -webkit-border-radius: 5px;
      -moz-border-radius: 5px;
           border-radius: 5px;
+	vertical-align: middle;
 }
 
 li img {
