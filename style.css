@@ -1436,10 +1436,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*CAJA6- CajaVerde */
 .bck-box.bck-box-6 {
-    background: #D4E05A;
+    background: #DFE787;
     margin-top: 20px;
     padding: 10px 10px 2px;
-    border-radius: 0px 30px 30px 30px;
+    border-radius: 0px;
 }
 
 .bck-box.bck-box-6 .bck-content {
@@ -1448,7 +1448,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-6 .bck-title {
-    font-family: GrilledCheeseBTN;
     padding: 5px 10px;
     text-align: center;
     border: 0;
