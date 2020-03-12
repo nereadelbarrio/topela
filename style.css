@@ -815,11 +815,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #EF2C3F;
 }
 
-/*énfasis morado*/
+/*énfasis azul*/
 .bck-enfasis-6 {
-    font-size: 2.1rem;
-    font-family: 'Conv_FuturaStd-Heavy';
-    color: #B83187;
+    font-size: 2.3rem;
+    color: #009BB0;
 }
 
 /*Énfasis 7*/
