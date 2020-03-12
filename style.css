@@ -1335,6 +1335,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background: #ffffff;
     padding: 10px;
     width: fit-content;
+    display: inline-block;
+    text-align: right;
 }
 
 .bck-box.bck-box-2 .bck-title {
