@@ -133,7 +133,7 @@ body {
 /*tamaÃ±o p*/
 
 .texto_curso p {
-  /*line-height: 1.43em!important;*/
+  line-height: 1.43em!important;
   margin-bottom: 20px;
   font-size: 1.9rem;
   font-weight: 500;
@@ -773,10 +773,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     left: 9px;
 }
 
-/*párrafos - altura linea*/
+/*párrafos - altura linea
 .texto_curso p{
 	line-height: 1.9!important;
-}
+}*/
 
 /*-------------*/
 
@@ -1457,6 +1457,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: 20px;
     padding: 10px 10px 2px;
     border-radius: 0px;
+    width: fit-content;
 }
 
 .bck-box.bck-box-6 .bck-content {
@@ -1465,6 +1466,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-6 .bck-title {
+    
     padding: 5px 10px;
     text-align: center;
     border: 0;
