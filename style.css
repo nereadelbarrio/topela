@@ -409,6 +409,11 @@ vertical-align: top;
   display: none;
 }
 
+/*tamaño parraf*/
+#actividad .workspace p{
+  font-size: 1.8rem;
+}
+
 /*Evitar bordes en las lineas del matching*/
 #actividad .workspace.matching .img-relaciones img {
   margin: 0;
