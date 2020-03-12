@@ -496,7 +496,6 @@ vertical-align: top;
   background-color: #bbffb6;
 }
 
-
 #actividad .workspace.matching .opcion {
   overflow: hidden;
   min-height: 2.5em;
@@ -505,7 +504,7 @@ vertical-align: top;
   border-radius: 10px;
   border: 2px solid #64bcd5;
   margin: 2px 0;
-  padding: 5px;
+  padding: 10px;
   width: 100%;
   float: left;
 }
