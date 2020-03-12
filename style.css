@@ -1323,24 +1323,28 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-size: 3.2rem;
 }
 
-/*CAJA2- CajaFondoColor = caja 2 verde */
-
+/*Caja 2 = blanca */
 .bck-box.bck-box-2 {
-  margin-top: 15px;
-  border: none;
-  background: transparent;
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    -webkit-box-shadow: 10px 20px 10px 10px #878787;
+    box-shadow: 5px 6px 55px 10px #dcdcdc;
+    border: 2px solid #ffffff;
+    border-radius: 89px 475px 203px 355px/156px 72px 209px 133px;
+    background: #ffffff;
+    padding: 10px;
+    width: fit-content;
 }
 
 .bck-box.bck-box-2 .bck-title {
   color: inherit;
 }
 
-
 .bck-box.bck-box-2 .bck-content {
-    padding-left: 30px;
-    background-color: #DFEFE4;
-    padding: 8px 8px 8px 19px;
-    box-shadow: 9px 10px 0px -6px #20AA72;
+    color: #EF2C3E;
+    font-family: 'Conv_billy-bold';
+    padding: 5px;
 }
 
 /*CAJA3 Video*/
