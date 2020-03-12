@@ -521,6 +521,12 @@ vertical-align: top;
 	background: #ffffff;
 }
 
+/*test*/
+#actividad .workspace.test .respuestas li{
+  width: 33%;
+  /*width: 45%;*/
+}
+
 /**/
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
@@ -1146,8 +1152,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -35px;
     margin-right: 0px;
     text-align: right;
-    font-family: 'Conv_HelveticaNeueLTStd-Bd';
-
 }
 
 /*LISTA LetraMinus*/
