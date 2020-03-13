@@ -256,7 +256,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
   background: transparent;
-  border-bottom: px solid #0378b2;
+  border-bottom: px solid #00767f;
   padding-left: 10px;
 }
 
@@ -264,7 +264,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
   background: transparent;
-  border-bottom: 2px solid #0378b2;
+  border-bottom: 2px solid #00767f;
   padding-left: 10px;
 }
 
