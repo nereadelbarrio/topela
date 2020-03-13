@@ -212,13 +212,14 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-  background: #139dc5;
+  background: #009BA7;
 }
 
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-  background: #1cb3df;
+  background: #D9EBEE;
+  border: dashed 6px #009BA7;
 }
 
 #book-index #indice .unit-content a:hover,
