@@ -215,6 +215,10 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
   background: #009BA7;
 }
 
+body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover{
+  color: #009ba7;
+}
+
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
