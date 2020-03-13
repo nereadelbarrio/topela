@@ -246,9 +246,8 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .actividades a:hover,
 #indice .actividades a:active,
 #indice .actividades a:focus {
-	color: #0cb9ea;
+	color: #009ba7;
 }
-
 
 #book-index #indice .unit-content .actividades .item {
   background: transparent;
