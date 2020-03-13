@@ -222,13 +222,16 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
   border: dashed 6px #009BA7;
 }
 
-#book-index #indice .unit-content a:hover,
-#indice .units ul li a:hover,
 #book-index #indice .unit-content a:active,
 #indice .units ul li a:active,
 #book-index #indice .unit-content a:focus,
 #indice .units ul li a:focus {
   color: #fff;
+}
+
+#book-index #indice .unit-content a:hover,
+#indice .units ul li a:hover{
+  color: #009BA7;
 }
 
 #indice .actividades a:hover,
