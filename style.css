@@ -2639,7 +2639,6 @@ border-color: #009FA5;
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
   background-color: #009ba7;
-      border-radius: 10px;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
