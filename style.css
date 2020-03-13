@@ -166,12 +166,11 @@ p {
 
 /*INDICE LATERAL*/
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
-  background: #0ca1ea;
+  background: #009ba7;
 }
 
-
 #book-index .col-main {
-      background: #0ca1ea;
+      background: #009ba7;
 }
 
 #indice .unit-content {
@@ -257,7 +256,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
   background: transparent;
-  border-bottom: 2px solid #0378b2;
+  border-bottom: px solid #0378b2;
   padding-left: 10px;
 }
 
