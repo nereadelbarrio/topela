@@ -1122,8 +1122,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: absolute;
     font-size: 2.2rem;
     font-weight: 600;
-    color: red;
-    /*color: #EF2C3E;*/
+
+    color: #EF2C3E;
     background: none;
     margin-left: -35px;
     margin-right: 0px;
