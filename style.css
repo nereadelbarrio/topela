@@ -1087,7 +1087,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     left: auto;
 }
 
-/*LISTA 2*/
+/*LISTA 2 = ROJA*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2,
@@ -1116,7 +1116,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso ol.bck-ol-2 li:before,
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
-  	content: counter(bck-li-counter)".";
+  	content: counter(bck-li-counter)". ";
     width: 27px;
     height: 27px;
     position: absolute;
@@ -1130,7 +1130,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Conv_HelveticaNeueLTStd-Bd';	
 }
 
-/*LISTA 3*/
+/*LISTA 3 = AZUL*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
 #actividad .content .workspace ul li .bck-ol-3,
@@ -1155,19 +1155,17 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-	content: counter(bck-li-counter)".";
-    width: 27px;
+	 width: 27px;
     height: 27px;
     position: absolute;
-    font-size: 2rem;
+    font-size: 2.2rem;
     font-weight: 600;
-    color: #009EC8;
+    color: #009BA7;
     background: none;
-    margin-left: -35px;
+    margin-left: -39px;
     margin-right: 0px;
     text-align: right;
     font-family: 'Conv_HelveticaNeueLTStd-Bd';
-
 }
 
 /*LISTA LetraMinus*/
@@ -1199,7 +1197,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   content: counter(bck-li-counter, lower-alpha)".";
   position: absolute;
   text-align: center;
-  color: #009EC8;
+  color: #009BA7;
   line-height: normal;
   margin-left: -20px;
   line-height: unset;
