@@ -1116,7 +1116,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso ol.bck-ol-2 li:before,
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
-  	content: counter(bck-li-counter)" ";
+  	content: counter(bck-li-counter)".";
     width: 27px;
     height: 27px;
     position: absolute;
