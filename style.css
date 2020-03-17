@@ -831,13 +831,19 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #009BB0;
 }
 
-/*Énfasis 7*/
+/*Énfasis 7 = num.lesson*/
 .bck-enfasis-7 {
-	background-color: #D8EDEE;
-	color: #009FA5;
-	padding: 5px;
-	font-weight: 600;
-	font-size: 2rem;
+    color: #ffffff;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 4rem;
+    background-size: contain;
+    content: " ";
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url(images/titulo_lesson.png);
+    padding: 68px 39px 10px 39px;
+    top: 4px;
 }
 
 /*Énfasis 8*/
