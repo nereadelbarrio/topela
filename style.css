@@ -1173,7 +1173,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -35px;
     margin-right: 0px;
     text-align: right;
-    font-family: 'Conv_HelveticaNeueLTStd-Bd';  
+    /*font-family: 'Conv_HelveticaNeueLTStd-Bd';*/  
 }
 
 /*LISTA LetraMinus*/
