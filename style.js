@@ -34,7 +34,7 @@
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis rojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
-				{ name: 'Énfasis Now You', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
+				{ name: 'Énfasis num. Lesson', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis 8', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'Énfasis 9', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
