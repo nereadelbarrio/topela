@@ -56,8 +56,8 @@
 				
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
-				{ name: 'Caja Blanca', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
-				{ name: 'CajaVideo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'Caja BlancaLivre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
+				{ name: 'Caja BlancaCahier', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
 				{ name: 'CajaInicioUnidad', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'Caja Verde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
