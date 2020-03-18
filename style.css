@@ -1132,7 +1132,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*LISTA 3 = AZUL*/
-/*LISTA 3 = AZUL*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
 #actividad .content .workspace ul li .bck-ol-3,
@@ -2479,7 +2478,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /**TABLA y Celdas**/
-
 table td,
 .bck-table td {
   padding: 10px;
@@ -2501,19 +2499,17 @@ table,
 }
 
 /*tabla azul y celda azul*/
-
 .bck-table-2 {
-  border: 1px solid #2E73B9;
+  border: 1px solid #009BA7;
 }
 
 .bck-table-2 td {
-  border: 1px solid #2E73B9;
+  border: 1px solid #009BA7;
 }
 
 /*celda azul*/
 table td.bck-td-2 {
-  color: #ffffff;
-  background: #2E73B9;
+  background: #CDE2E7;
   text-align: center;
 }
 
