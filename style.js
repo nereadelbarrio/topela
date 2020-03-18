@@ -86,10 +86,10 @@
 				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-29' } },
 				{ name: 'Caja 30', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-30' } },
 
-				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
+				{ name: 'Tabla Azul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla 3', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
 				
-				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
+				{ name: 'Celda Azul', element: 'td', attributes: { 'class': 'bck-td-2'} },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
