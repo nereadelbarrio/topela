@@ -1401,18 +1401,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 5px;
 }
 
-/*CAJA4- CajaNaranja*/
-
 .bck-box.bck-box-4 {
-	background-color: #E9510E;
+	  background-color: #ffffff;
+    border: 2px solid #009BA7;
     padding: 8px 15px 8px 8px;
-    display: block;
-    padding-bottom: 10px;
-    line-height: 1.43em;
-    font-size: 1em;
-    padding-left: 10px;
-    z-index: 1;
-    transform: rotate(-3deg);
 }
 
 .bck-box.bck-box-4 .bck-title {
@@ -1425,12 +1417,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   	display: block;
     padding-bottom: 10px;
     line-height: 1.43em;
-    font-size: 1em;
-    background-color: #FDE0CE;
-    width: 99%;
-    z-index: 1;
-    padding: 20px;
-    transform: rotate(3deg);
+}
+
+.bck-box.bck-box-4 .bck-content p{
+    color: #9395A2;
+    font-weight: 600;
 }
 
 /*CAJA5- CajaInicioUnidad*/
