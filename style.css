@@ -2444,7 +2444,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono lápizAzul*/
 .icon-lapizazul:before {
-    background-image: url(images/icono_lapizAzul.png;
+    background-image: url(images/icono_lapizAzul.png);
     content: "";
     background-repeat: no-repeat;
     -webkit-background-size: contain;
