@@ -50,8 +50,8 @@
 				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
-				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
+				{ name: 'Lista LetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				
 										
