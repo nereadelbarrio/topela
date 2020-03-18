@@ -1175,7 +1175,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     /*font-family: 'Conv_HelveticaNeueLTStd-Bd';*/  
 }
 
-/*LISTA LetraMinus*/
+/*LISTA LetraMinusAzul*/
 #actividad .content .cke_contents .bck-ol-4,
 #actividad .content .texto_curso .bck-ol-4,
 #actividad .content .workspace ul li .bck-ol-4,
@@ -1213,7 +1213,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   font-family: 'Conv_HelveticaNeueLTStd-Bd';
 }
 
-/*LISTA LetraMinusMorada*/
+/*LISTA LetraMinusNegra*/
 #actividad .content .cke_contents .bck-ol-5,
 #actividad .content .texto_curso .bck-ol-5,
 #actividad .content .workspace ul li .bck-ol-5,
@@ -1239,15 +1239,15 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso ol.bck-ol-5 li:before,
 #actividad .popover-content ol.bck-ol-5 li:before,
 #actividad .content .workspace ul li ol.bck-ol-5 li:before {
-  content: counter(bck-li-counter, lower-alpha)".";
-  position: absolute;
-  text-align: center;
-  color: #814997;
-  line-height: normal;
-  margin-left: -20px;
-  line-height: unset;
-  font-weight: 600;
-  margin-top: -1px;
+    content: counter(bck-li-counter, lower-alpha)".";
+    position: absolute;
+    text-align: center;
+    color: #000000;
+    margin-left: -20px;
+    line-height: unset;
+    font-weight: 600;
+    margin-top: -1px;
+    font-family: 'Conv_HelveticaNeueLTStd-Bd';
 }
 
 /*Lista ordenada 6*/
