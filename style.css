@@ -390,9 +390,14 @@ body.is_app .topela-navbar.ocultar {
 #actividad .content img {
   margin-top: 0px;
   -webkit-border-radius: 5px;
-     -moz-border-radius: 5px;
-          border-radius: 5px;
-	vertical-align: middle;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  vertical-align: middle;
+  border-radius: 0px;
+    border: 5PX SOLID #FFFF;
+    vertical-align: middle;
+    -webkit-box-shadow: 10px 10px 10px 10px #171212;
+    box-shadow: 1px 0px 7px 5px #E2E2E2;
 }
 
 li img {
