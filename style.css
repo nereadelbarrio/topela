@@ -2807,6 +2807,8 @@ border-color: #009FA5;
 /*-----------------------------------Tag Cahier1--------------------------------------------------*/
 .coursetag_topela_cahier #actividad .player.audio {
   background-image: url(images/icono_audioazul.png);
+  width: 21px;
+  margin-right: 10px;
 }
 
 /****/
