@@ -29,7 +29,7 @@
 				{ name: 'Título negro', element: 'h2', attributes: { 'class': 'bck-title-12'} },
 				
 				{ name: 'Billy', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
-				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Énfasis enunciado', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis negro', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis rojo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
