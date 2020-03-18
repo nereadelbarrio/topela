@@ -2453,9 +2453,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-position: center center;
     display: inline-block;
     vertical-align: middle;
-    height: 30px;
-    width: 33px;
-    margin-right: 3px;
+    height: 19px;
+    width: 17px;
+    margin-right: 9px;
 }
 
 /*icono Play*/
