@@ -554,8 +554,7 @@ vertical-align: top;
 }
 /**/
 
-/*Icono audio*/
-
+/*Icono audioRojo*/
 #actividad .player.audio {
   background-image: url(images/icono_audio.png);
   -webkit-background-size: 100% 100%;
@@ -564,6 +563,8 @@ vertical-align: top;
   background-size: contain;
   background-position: 0;
   background-color: #9a999e00;
+  width: 21px;
+  margin-right: 10px;
 }
 
 #actividad .player.audio:hover {
@@ -572,7 +573,11 @@ vertical-align: top;
 }
 
 
-#actividad .content img.player, #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+#actividad .content img.player, 
+#actividad .player.audio, 
+#actividad .player.video, 
+#help-panel-content .player, 
+#remote-alert-modal-rich .player {
   height: 30px !important;
   width: 35px;
   display: inline-block;
