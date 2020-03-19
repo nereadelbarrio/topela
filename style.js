@@ -52,7 +52,7 @@
 				{ name: 'Lista 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista LetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
-				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				{ name: 'Lista GridLetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
