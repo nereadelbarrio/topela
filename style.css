@@ -2386,7 +2386,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   width: 17px;
   margin-right: 9px;
   position: relative;
-  top: -5px;
+  top: -1px;
 }
 
 /*icono cuidado*/
