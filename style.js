@@ -102,6 +102,7 @@
 				{ name: 'Icono Focus', element: 'span', attributes: { 'class': 'icon icon-focus' } },
 				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
 				{ name: 'Icono Libro', element: 'span', attributes: { 'class': 'icon icon-libro' } },
+				{ name: 'Icono LibroAzul', element: 'span', attributes: { 'class': 'icon icon-libroazul' } },
 				{ name: 'Icono Cuidado', element: 'span', attributes: { 'class': 'icon icon-cuidado' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
 				{ name: 'Icono Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
