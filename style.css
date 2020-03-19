@@ -2495,7 +2495,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   background-size: contain;
   background-position: center center;
   display: inline-block;
-  vertical-align: text-bottom;
+  vertical-align: inherit;
   /*height: 28px;
   width: 30px;*/
 }
