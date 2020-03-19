@@ -53,7 +53,7 @@
 				{ name: 'Lista LetraMinusAzul', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista LetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista GridLetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
-				
+				{ name: 'Lista numCirculo', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja BlancaLivre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
