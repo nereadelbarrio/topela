@@ -2369,6 +2369,25 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   top: -5px;
 }
 
+/*icono libroazul*/
+.icon-libroazul:before {
+  background-image: url(images/icono_libroazul.png);
+  content: "";
+  background-repeat: no-repeat;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  background-position: center center;
+  display: inline-block;
+  vertical-align: middle;
+  height: 19px;
+  width: 17px;
+  margin-right: 9px;
+  position: relative;
+  top: -5px;
+}
+
 /*icono cuidado*/
 .icon-cuidado:before {
   background-image: url(images/icono_cuidado.png);
