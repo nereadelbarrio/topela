@@ -2127,11 +2127,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*caja 27*/
-
 .bck-box.bck-box-27 {
   margin-top: 15px;
   border: none;
   background: transparent;
+  box-shadow: 10px 8px 12px -2px #AAACAD;
 }
 
 .bck-box.bck-box-27 .bck-title {
@@ -2141,7 +2141,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-27 .bck-content {
     padding-left: 30px;
-    background-color: #FFEBBE;
+    background-color: #ffff;
     padding: 8px 8px 8px 19px;
 }
 
@@ -2186,6 +2186,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-top: 15px;
   border: none;
   background: transparent;
+  box-shadow: 10px 8px 12px -2px #AAACAD;
 }
 
 .bck-box.bck-box-30 .bck-title {
