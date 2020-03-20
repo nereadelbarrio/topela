@@ -2674,7 +2674,6 @@ border-color: #009FA5;
 
 
 /*Boton toc - boton reininciar ejercicio*/
-
 .btn-primary {
   background-color: #ea5b0c;
 }
@@ -2685,7 +2684,7 @@ border-color: #009FA5;
 
 .btn-danger, .btn-danger[disabled] {
   color: #fff;
-  background-color: #3ab2dc;
+  background-color: #009ba7;
   border-color: transparent;
 }
 
@@ -2700,7 +2699,7 @@ border-color: #009FA5;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
-  background-color: #1098be;
+  background-color: #009ba7;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
@@ -2712,7 +2711,7 @@ border-color: #009FA5;
 }
 
 #actividad .content .review .attemps span {
-  background-color: #08a9d7;
+  background-color: #009ba7;
 }
 
 /*portada*/
