@@ -1349,9 +1349,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 /*CAJA1 - CajaEntracte*/
 .bck-box.bck-box-1 {
     position: relative;
-    background: url(images/caja_entracte.png);
-    background-repeat: repeat;
-    padding: 15px 142px 37px 96px;
+    background: url(images/caja_entracte3.png);
+    background-repeat: no-repeat;
+    padding: 0px 155px 37px 96px;
     background-size: cover;
     top: -21px;
     left: -97px;
