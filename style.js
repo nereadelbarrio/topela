@@ -55,7 +55,7 @@
 				{ name: 'Lista GridLetraMinusNegra', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista numCirculo', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
 										
-				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
+				{ name: 'CajaEntracte', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja BlancaLivre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
 				{ name: 'Caja BlancaCahier', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'Caja CajaInsertar', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
