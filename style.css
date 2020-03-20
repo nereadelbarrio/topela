@@ -277,6 +277,13 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
     color: #ffff;
 }
 
+#book-index #indice .units ul li a .title{
+  margin: 0;
+    font-size: 16px;
+    color: #ffff;
+}
+
+
 /*HEADER*/
 
 .topela-navbar h3 {
