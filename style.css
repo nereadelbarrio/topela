@@ -1292,7 +1292,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -20px;
     line-height: unset;
     font-weight: 600;
-    margin-top: -1px;
+    margin-top: 0px;
     font-family: 'Conv_HelveticaNeueLTStd-Bd';
 }
 
