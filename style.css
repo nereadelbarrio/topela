@@ -1346,42 +1346,27 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*BOXES*/
 
-/*CAJA1 - CajaUnit*/
-
+/*CAJA1 - CajaEntracte*/
 .bck-box.bck-box-1 {
     position: relative;
-    background: url(images/rich_english_U7_pg64_img_0001.png) repeat-y;
-    padding: 60px 18px 91px 83px;
+    background: url(images/caja_entracte.png) repeat-y;
+    padding: 16px 45px 37px 96px;
     background-size: cover;
     top: -21px;
     left: -97px;
-    width: 125.5%;
+    width: 99.5%;
 }
-
-
-/*.bck-box-1 .bck-title {
-  border: 3px solid #ED155B;
-  background-color: #ED155B;
-  color: #FFF;
-  width: fit-content;
-  font-weight: 700;
-  width: -moz-fit-content;
-  height: auto;
-  font-size: 3.5rem;
-  border-radius: 10px 10px 0px 0px;
-  padding: 4px 4px 4px 4px;
-  font-family: JacobyICG;
-}*/
 
 .bck-box-1 .bck-content {
     padding-left: 30px;
     text-align: left;
     padding: 0;
-    font-family: 'Conv_FuturaStd-Bold';
 }
 
 .bck-box-1 .bck-content p {
-    font-size: 3.2rem;
+    font-size: 3.5rem;
+    color: #ffff;
+    font-family: 'Conv_billy-bold';
 }
 
 /*Caja 2 = blanca */
