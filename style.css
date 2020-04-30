@@ -915,6 +915,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #8BBF36;
 }
 
+/*énfasis HelveticaNeueBold Azul*/
+.bck-enfasis-12 {
+  color: #009BB1;
+  font-family: 'Conv_HelveticaNeueLTStd-Bd';
+}
+
 /*Line Height Listas*/
 .texto_curso li {
   line-height: 1.8em!important;
