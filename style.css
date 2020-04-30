@@ -1401,7 +1401,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border: none;
     background: transparent;
     -webkit-box-shadow: 10px 20px 10px 10px #878787;
-    box-shadow: 5px 6px 55px 10px #dcdcdc;
+    box-shadow: 0px -12px 40px 4px #dcdcdc;
     border: 2px solid #ffffff;
     border-radius: 89px 475px 203px 355px/156px 72px 209px 133px;
     background: #ffffff;
