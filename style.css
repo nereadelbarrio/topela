@@ -164,6 +164,12 @@ p {
   text-decoration: none;
 }*/
 
+/*TOC*/
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+    color: #009BA7;
+}
+
 /*INDICE LATERAL*/
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
   background: #009ba7;
