@@ -2744,75 +2744,40 @@ border-color: #009FA5;
 
 /**/
 
+/*DESPLEGABLES*/
 /*Dropdown 1*/
-
-.bck-dropdown.bck-dropdown-1 {
-  background-color: #00adee;
-  border: 1px solid #DDDDDD;
-  margin-top: 10px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+.bck-dropdown-1 .bck-dropdown-icon>.fa{
+	border: 3px solid #009BA7;
 }
 
-.bck-dropdown-1 .bck-dropdown-icon {
-  background-color: #00adee;
-  width: 25px;
-  height: 10px;
+.bck-dropdown-1 .fa-chevron-down:before {
+    color: #009BA7;
 }
 
-/**/
-
-/*Dropdown 2*/
-
-.bck-dropdown-2 .bck-dropdown-button {
-  margin-top: 20px;
-  background: #00adee;
-  color: #fff;
-  text-align: center;
-  border: 1px solid #dcdada;
-  -webkit-border-top-left-radius: 5px;
-      -moz-border-radius-topleft: 5px;
-          border-top-left-radius: 5px;
-  -webkit-border-top-right-radius: 5px;
-      -moz-border-radius-topright: 5px;
-          border-top-right-radius: 5px;
-}
-
-/*Dropdown 3*/
-.bck-dropdown-3 .bck-dropdown-icon>.fa{
-	border: 3px solid #2E72B7;
-}
-
-.bck-dropdown-3 .fa-chevron-down:before {
-    color: #2E72B7;
-}
-
-.bck-dropdown-3 .fa-chevron-up:before{
-	color: #2E72B7;
-}
-
-.bck-dropdown-3 .bck-dropdown-titulo{
-	color: #2E72B7;
+.bck-dropdown-1 .fa-chevron-up:before{
+	color: #009BA7;
+}1
+.bck-dropdown-1 .bck-dropdown-titulo{
+	color: #009BA7;
 }
 
 /**/
 
 /*Activities Dropdown*/
 
-.bck-dropdown-2.activities-dropdown .fa-chevron-up:before,
-.bck-dropdown-2.activities-dropdown .fa-chevron-down:before {
+.bck-dropdown-1.activities-dropdown .fa-chevron-up:before,
+.bck-dropdown-1.activities-dropdown .fa-chevron-down:before {
   content: "\f0ae";
 }
 
-.bck-dropdown-2.activities-dropdown .bck-dropdown-content {
+.bck-dropdown-1.activities-dropdown .bck-dropdown-content {
   position: relative;
   border: 0;
   padding-left: 120px;
   padding-right: 0;
 }
 
-.bck-dropdown-2.activities-dropdown .bck-box p,
+.bck-dropdown-1.activities-dropdown .bck-box p,
 .bck-box .chooseblanks p,
 .bck-box .fillblanks p {
   display: block;
