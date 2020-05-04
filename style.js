@@ -106,7 +106,6 @@
 				{ name: 'Icono LibroAzul', element: 'span', attributes: { 'class': 'icon icon-libroazul' } },
 				{ name: 'Icono Cuidado', element: 'span', attributes: { 'class': 'icon icon-cuidado' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
-				{ name: 'Icono Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
 				{ name: 'Icono LápizAzul', element: 'span', attributes: { 'class': 'icon icon-lapizazul' } },
 				{ name: 'Icono LápizRojo', element: 'span', attributes: { 'class': 'icon icon-lapizrojo' } },
 				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-play' } },
