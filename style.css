@@ -166,7 +166,7 @@ p {
 
 /*TOC*/
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
-    color: #009BA7;
+    color: #ffff;
 }
 
 /*INDICE LATERAL*/
