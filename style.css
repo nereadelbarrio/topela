@@ -165,8 +165,10 @@ p {
 }*/
 
 /*TOC*/
+
+
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
-    color: #ffff;
+    color: #009ba7;
 }
 
 /*INDICE LATERAL*/
@@ -218,7 +220,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .units ul li a .title{
-  color: #009ba7;
+  color: #ffff;
 }
 
 #indice .units ul li.active:not(.disabled),
