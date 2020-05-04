@@ -2526,7 +2526,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*icono lápizRojo*/
-.icon-lapizazul:before {
+.icon-lapizrojo:before {
     background-image: url(images/icono_lapizRojo.png);
     content: "";
     background-repeat: no-repeat;
