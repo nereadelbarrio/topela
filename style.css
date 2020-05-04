@@ -229,7 +229,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover{
-  color: #009ba7;
+  color: #ffff;
 }
 
 #indice .units ul li.hover:not(.disabled),
