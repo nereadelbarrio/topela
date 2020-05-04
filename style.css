@@ -179,6 +179,10 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
   background: #009ba7;
 }
 
+#book-index .col-indice{
+  background: #99d7dc;
+}
+
 #book-index .col-main {
       background: #009ba7;
 }
